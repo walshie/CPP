@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../src/HiWorld.cpp 
+../src/Fibonacci.cpp 
 
 OBJS += \
-./src/HiWorld.o 
+./src/Fibonacci.o 
 
 CPP_DEPS += \
-./src/HiWorld.d 
+./src/Fibonacci.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
